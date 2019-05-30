@@ -16,3 +16,7 @@ $ python network.py
 ```
 
 You can also [run this code in your browser](https://repl.it/@vzhou842/An-Introduction-to-Neural-Networks).
+
+## More
+
+You may also be interested in [a Convolutional Neural Network (CNN) implemented from scratch in Python](https://github.com/vzhou842/cnn-from-scratch), which was written for my [introduction to CNNs](https://victorzhou.com/blog/intro-to-cnns-part-1/).
